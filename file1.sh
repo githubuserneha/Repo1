@@ -1,5 +1,5 @@
 #!/bin/bash
-for i  in {0..10..3};
+for n  in {0..10..3};
 do
-echo $i;
+echo $n;
 done
